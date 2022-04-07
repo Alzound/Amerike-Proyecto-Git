@@ -1,2 +1,1 @@
-* [HomePage](/docs/HomePage.md))
-* [Datos]
+* [HomePage](/docs/HomePage.md)
